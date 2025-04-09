@@ -1,6 +1,18 @@
 # 💫 Hi!! I'm Jerin Romijah Tuli!
 A Free soul | Passionate Data Scientist | Machine Learning and AI Enthusiast |  Web Devloper.
+- 🔭 I’m currently working on ** Machine Learning Projects**
 
+- 🌱 I’m currently learning **AI,Machine Learning,Deep Learning,Langchain,LLM,Generative Ai**
+
+- 👯 I’m looking to collaborate on **Data Analyst,Data Scientist, Machine learning and Generativr AI**
+
+- 🤝 I’m looking for help with **Machine Learning tips**
+
+- 💬 Ask me about **Machine learning**
+
+- 📫 How to reach me **ramijahtuli786@gmail.com**
+
+- ⚡ Fun fact **I am a very good listener**
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jerin Romijah Tuli) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Jerin Romijah Tuli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jerin Romijah Tuli) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Jerin Tuli786) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Ramijah Tuli786) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RTuli786) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Jerin Romijah Tuli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramijahtuli786@gmail.com) 
