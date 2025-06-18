@@ -15,7 +15,7 @@ A Free soul | Passionate Data Scientist | Machine Learning and AI Enthusiast | W
 ## 🌐 Socials
 <p align="left">
 <a href="[https://x.com/RTuli786]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RTuli786" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/jerin-romijah-tuli-491b5a31b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jerin Romijah Tuli" height="30" width="40" /></a>
+<a href="(https://www.linkedin.com/in/jerin-romijah-tuli-491b5a31b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jerin Romijah Tuli" height="30" width="40" /></a>
 <a href="https://kaggle.com/naimparvez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="naimparvez" height="30" width="40" /></a>
 <a href="https://www.facebook.com/naim.parvez.353?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naim parvez" height="30" width="40" /></a>
 <a href="https://instagram.com/__naim_parvez__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__naim_parvez__" height="30" width="40" /></a>
