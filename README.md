@@ -14,12 +14,12 @@ A Free soul | Passionate Data Scientist | Machine Learning and AI Enthusiast | W
 
 ## 🌐 Socials
 <p align="left">
-<a href="https://x.com/RTuli786](https://x.com/Jerin_Romijah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Jerin Romijah" height="30" width="40" /></a>
+<a href="https://x.com/Jerin_Romijah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Jerin Romijah" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jerin-romijah-tuli-491b5a31b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jerin Romijah Tuli" height="30" width="40" /></a>
-<a href="https://kaggle.com/naimparvez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="naimparvez" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/jerinromijahtuli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Jerin Romijah Tuli" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/1Fwpde58M4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Jerin Romijah Tuli" height="30" width="40" /></a>
 <a href="https://www.instagram.com/tuli_jerin?igsh=aHJ6Nmt1cnllNDJh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tuli_jerin_" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/naim_parvez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="naim_parvez" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/jerintuli786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jerinromijah786" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/AZnnwVWE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/AZnnwVWE" height="30" width="40" /></a>
 
 # 💻 Tech Stack
