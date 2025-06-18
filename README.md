@@ -1,6 +1,5 @@
 # 💫 Hi!! I'm Jerin Romijah Tuli!
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 A Free soul | Passionate Data Scientist | Machine Learning and AI Enthusiast | Web Developer.
 
 - 🔭 I'm currently working on **Machine Learning Projects**
