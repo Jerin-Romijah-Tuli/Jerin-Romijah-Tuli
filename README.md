@@ -14,7 +14,7 @@ A Free soul | Passionate Data Scientist | Machine Learning and AI Enthusiast | W
 
 ## 🌐 Socials
 <p align="left">
-<a href="[https://x.com/RTuli786]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naim_parvez" height="30" width="40" /></a>
+<a href="[https://x.com/RTuli786]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RTuli786" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/Naim Parvez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naim parvez" height="30" width="40" /></a>
 <a href="https://kaggle.com/naimparvez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="naimparvez" height="30" width="40" /></a>
 <a href="https://www.facebook.com/naim.parvez.353?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naim parvez" height="30" width="40" /></a>
